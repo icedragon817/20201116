@@ -23,3 +23,5 @@ Create a new brance : feature~
 start fix bug
 
 start working~`
+
+new bug
