@@ -20,3 +20,4 @@ this is dev branch
 
 Maybe a new brance has be create, but i don`t kown~
 Create a new brance : feature~
+start fix bug
