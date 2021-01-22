@@ -30,4 +30,3 @@ test fast forward
 
 test fast forward again 
 
-test normal merge 
