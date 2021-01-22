@@ -25,3 +25,5 @@ start fix bug
 start working~`
 
 new bug
+
+test fast forward
