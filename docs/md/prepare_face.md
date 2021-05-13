@@ -40,17 +40,57 @@
 
 **spring mvc**
 
+优点：
+
+* 支持各种视图，而不仅仅是jsp
+* 与spring 框架结合
+* 清晰的角色控制
+* 
+
 **常用数据结构对比**
+
+* array数组：固定大小、连续空间
+* List：不固定大小
+* Map：键值对，键不允许重复
 
 **jdbc**
 
+* 加载驱动
+* 链接数据库
+* 发送sql对象（Statement/prepareStatement)
+* 编写sql
+* 执行获得结果resultSet
+* 关闭链接
+
 **hibernate、mybatis区别**
+
+* hibername完全封装sql，mybatis半封装需要使用标准sql。
+* 
 
 **Hadoop**
 
 **单例**
 
+```java
+public class Singleton {
+    // 静态字段引用唯一实例:
+    public static final Singleton INSTANCE = new Singleton();
+
+    // private构造方法保证外部无法实例化:
+    private Singleton() {
+    }
+    
+    public static Singleton getInstance() {
+        return INSTANCE;
+    }
+}
+```
+
+
+
 **生产者、消费者**
+
+
 
 **socket通讯的调用**
 
